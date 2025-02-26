@@ -1,6 +1,6 @@
 # Baseline Discord Bot
 
-![Bot Logo](assets/logo.png)
+![Bot Logo](Assets/Logo.png)
 
 ## Overview
 This is a basic Discord bot template using [interactions.py](https://github.com/interactions-py/interactions.py) and extensions. It provides the minimal setup required to start developing a bot with command handling and configuration management.
